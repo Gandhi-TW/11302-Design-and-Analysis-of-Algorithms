@@ -1,4 +1,7 @@
-# 計算方法設計Design and Analysis of Algorithms (11320CS431100) by 盧錦隆
+# 計算方法設計Design and Analysis of Algorithms 
+
+- 課號:11320CS431100
+- 授課:盧錦隆老師
 
 |       | hw1 | hw2 | hw3 | hw4 | hw5 |
 | ----- |:---:|:---:|:---:|:---:|:---:|
